@@ -1,11 +1,11 @@
-def coffeeQuiz():
-    """
+ """
     This is a simple quiz on coffee coded in python
 
     To run application simply type 'python3 coffee_quiz'
     
     """
 
+def coffeeQuiz():
     #initialized variables for score, question number, and result
     score, questNum,= 0, 5
 
