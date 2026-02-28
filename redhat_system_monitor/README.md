@@ -1,7 +1,3 @@
-Here is your **Red Hat System Monitor README** written in the same style and structure as your Suspicious Login Threat Detector README:
-
----
-
 # 🐧 Red Hat System Monitor
 
 A beginner-friendly Python system monitoring project built for Red Hat Enterprise Linux (RHEL) environments. This lightweight CLI tool monitors CPU, memory, and disk usage in real time. The project follows foundational Linux system administration and DevOps monitoring practices.
